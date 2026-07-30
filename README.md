@@ -50,7 +50,7 @@ This project was created as part of a ZoomCharts Power BI Challenge, demonstrati
     <td>Microsoft Power Bi</td>
   </tr>
   <tr>
-    <td>Names Table</td>
+    <td>Dataset</td>
     <td> The Spreadsheet Consists of 6 Tables which Includes Fact_Cases,Dim_Clent,Dim_Lawyer,Dim_Date,Dim_Cases,Dim_Office</td>
    </tr>
   <tr>
@@ -64,7 +64,7 @@ This project was created as part of a ZoomCharts Power BI Challenge, demonstrati
       </tr>
   <tr>
     <td>Live Report</td>
-     <td><a href="https://app.powerbi.com/view?r=eyJrIjoiZGU2NTlmN2UtMjA0MS00NWNiLWI1YTItM2ViZWRmOThkMmFiIiwidCI6ImUwYjEzY2QwLTY1MjItNDFmNS05MjFlLTg5OGRmMTBkZGIzMiJ9">View Live Dashboard</a></td>
+     <td><a href="9">View Live Dashboard</a></td>
     </tr>
 </table>
 ## 🎯 Business Objective
