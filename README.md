@@ -99,9 +99,52 @@ The dataset was modeled using a star schema in Power BI, with Fact_Cases serving
  ### Page 1 - Executive Overview
 
  This page was created to provide stakeholders with a high-level summary of the law firm's overall performance. This page highlights key business metrics such as revenue, profit, total cases, profit margin, outstanding balance, and client satisfaction, enabling executives to quickly assess the firm's health and make informed strategic decisions.
+ 
+
+ ❓ Business Questions & Answered
+
+Questions
+
+- How is the law firm performing overall?
+- What are the firm's total revenue, profit, and profit margin?
+- How many legal cases are being managed?
+- How many cases are open versus closed?
+- What is the current outstanding balance?
+- How satisfied are clients with the firm's services?
+- Which practice areas and office locations contribute the most revenue?
+
+Answers
+
+- Provides a high-level overview of the firm's financial and operational performance.
+- Highlights key performance indicators (KPIs) for quick executive decision-making.
+- Identifies top-performing offices and practice areas.
+- Shows the firm's current workload and overall client satisfaction.
+
 
 ### Page 2 - Case Performance & Efficiency
  This page was created to evaluate how effectively legal cases are being managed throughout their lifecycle. This page analyzes case volume, status, complexity, duration, billable hours, and profitability, helping management identify operational bottlenecks, monitor case progress, and improve overall case handling efficiency.
+
+ ❓ Business Questions & Answered
+ 
+
+ Questions
+
+- Which practice areas handle the highest number of cases?
+- What is the distribution of cases by status and outcome?
+- How are cases distributed across different complexity levels?
+- How long do cases typically remain open?
+- Which cases generate the highest revenue and profit?
+- Is there a relationship between billable hours and profit?
+- Which case categories require the greatest operational effort?
+
+Answers
+
+- Identifies departments with the highest workload.
+- Shows how efficiently cases progress through their lifecycle.
+- Highlights the firm's most valuable and most complex cases.
+- Reveals operational bottlenecks through case duration analysis.
+- Evaluates whether increased legal effort results in higher profitability.
+
 
 Insights Include:
 - Cases by Practice Area
@@ -115,6 +158,27 @@ Insights Include:
 This Page was created to assess the performance of lawyers and understand client value across the firm. This page examines lawyer productivity, utilization, revenue contribution, client satisfaction, and client segmentation, enabling leaders to recognize top-performing lawyers, strengthen client relationships, and allocate resources more effectively.
 
 
+ ❓ Business Questions & Answered
+
+ Questions
+
+- Which lawyers generate the most revenue?
+- Which departments contribute the highest revenue?
+- How effectively are lawyers utilized?
+- Which industries generate the highest revenue?
+- Are strategic clients more valuable than non-strategic clients?
+- Which lawyers achieve the highest client satisfaction?
+- Which clients contribute the most to the firm's success?
+
+Answers
+
+- Identifies top-performing lawyers and departments.
+- Measures lawyer productivity and utilization.
+- Evaluates client satisfaction across legal services.
+- Highlights the firm's most valuable industries and client segments.
+- Supports better resource allocation and client relationship management.
+
+
 Insights Include:
 - Revenue by Lawyer
 - Lawyer Utilization
@@ -126,6 +190,28 @@ Insights Include:
 ### Page 4 - Financial & Operational Insights
 
 This Page was created to analyze the firm's financial health and operational effectiveness. This page focuses on profitability, internal costs, outstanding balances, workload distribution, lawyer utilization, and risk levels, helping decision-makers optimize financial performance, improve cash flow, manage operational risks, and support long-term business growth.
+
+
+❓ Business Questions & Answered
+
+
+Questions
+
+- Which practice areas generate the highest profit?
+- Which clients have the highest outstanding balances?
+- Which risk categories contribute the most revenue?
+- Which revenue bands are the most profitable?
+- How is the firm's workload distributed?
+- Are lawyers underutilized, optimally utilized, or overutilized?
+- Which operational areas require improvement?
+
+Answers
+
+- Measures the firm's financial performance and profitability.
+- Identifies opportunities to improve cash collection.
+- Evaluates the relationship between risk and revenue.
+- Assesses workload balance and lawyer capacity.
+- Provides actionable insights to improve operational efficiency, profitability, and long-term business performance.
 
 Insights Include
 
