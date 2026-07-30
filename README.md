@@ -1,6 +1,10 @@
 # ⚖️ Legal-Operations-Performance-Analysis-Dashboard
 The Legal Operations Performance Dashboard is an interactive Power BI report developed to analyze the operational, financial, and client performance of a fictional law firm. The dashboard enables stakeholders to monitor key business metrics, evaluate legal case performance, assess lawyer productivity, and identify opportunities to improve profitability and operational efficiency.
 
+
+
+This project was created as part of a ZoomCharts Power BI Challenge, demonstrating advanced data modeling, DAX calculations, interactive reporting, and storytelling with data.
+
 </tr>
     <tr>
       <td>🌐</td>
@@ -14,8 +18,6 @@ The Legal Operations Performance Dashboard is an interactive Power BI report dev
       <td>🌐</td>
       <td><a href="https://olalekan4545.github.io/Port-folio/">Portfolio</a></td>
 
-
-This project was created as part of a ZoomCharts Power BI Challenge, demonstrating advanced data modeling, DAX calculations, interactive reporting, and storytelling with data.
 
 ## 🎯 Business Objective
 
