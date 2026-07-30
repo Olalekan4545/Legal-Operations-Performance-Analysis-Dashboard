@@ -120,7 +120,7 @@ Answers
 - Identifies top-performing offices and practice areas.
 - Shows the firm's current workload and overall client satisfaction.
 
-Insights Includes:
+Visual Includes:
 - Revenue Trend
 - Case Status Distribution 
 - Revenue by Practice Area 
@@ -152,7 +152,7 @@ Answers
 - Evaluates whether increased legal effort results in higher profitability.
 
 
-Insights Include:
+Visual Include:
 - Cases by Practice Area
 - Case Status Distribution
 - Case Complexity Analysis
@@ -185,7 +185,7 @@ Answers
 - Supports better resource allocation and client relationship management.
 
 
-Insights Include:
+Visual Include:
 - Revenue by Lawyer
 - Lawyer Utilization
 - Client Satisfaction
@@ -219,7 +219,7 @@ Answers
 - Assesses workload balance and lawyer capacity.
 - Provides actionable insights to improve operational efficiency, profitability, and long-term business performance.
 
-Insights Include
+Visual Include
 
 - Profit by Practice Area
 - Outstanding Balance by Client
