@@ -97,7 +97,7 @@ The dataset was modeled using a star schema in Power BI, with Fact_Cases serving
 
 ## 📊 Dashboard Pages
 
- ### Page 1 - Executive Overview
+ #### Page 1 - Executive Overview
 
  This page was created to provide stakeholders with a high-level summary of the law firm's overall performance. This page highlights key business metrics such as revenue, profit, total cases, profit margin, outstanding balance, and client satisfaction, enabling executives to quickly assess the firm's health and make informed strategic decisions.
  
@@ -128,7 +128,7 @@ Visual Includes:
 - Office Performance by Location
 
   
-### Page 2 - Case Performance & Efficiency
+#### Page 2 - Case Performance & Efficiency
  This page was created to evaluate how effectively legal cases are being managed throughout their lifecycle. This page analyzes case volume, status, complexity, duration, billable hours, and profitability, helping management identify operational bottlenecks, monitor case progress, and improve overall case handling efficiency.
 
  ❓ Business Questions & Answered
@@ -161,7 +161,7 @@ Visual Include:
 - Billable Hours vs Profit
 - Top 10 Revenue-Generating Cases
 
-### Page 3 - Lawyer & Client Performance
+#### Page 3 - Lawyer & Client Performance
 This Page was created to assess the performance of lawyers and understand client value across the firm. This page examines lawyer productivity, utilization, revenue contribution, client satisfaction, and client segmentation, enabling leaders to recognize top-performing lawyers, strengthen client relationships, and allocate resources more effectively.
 
 
@@ -194,7 +194,7 @@ Visual Include:
 - Strategic vs Non-Strategic Clients
 - Lawyer Performance Table
 
-### Page 4 - Financial & Operational Insights
+#### Page 4 - Financial & Operational Insights
 
 This Page was created to analyze the firm's financial health and operational effectiveness. This page focuses on profitability, internal costs, outstanding balances, workload distribution, lawyer utilization, and risk levels, helping decision-makers optimize financial performance, improve cash flow, manage operational risks, and support long-term business growth.
 
@@ -229,13 +229,56 @@ Visual Include
 - Workload Distribution
 - Financial Performance Summary
 
-# 🛠️ Tools Used
+## 🛠️ Tools Used
 
 - Power BI Desktop
 - Power Query
 - DAX
 - ZoomCharts Custom Visuals
-- Microsoft Excel
+
+## 📊 Key Metrics
+
+
+<table>
+  <tr>
+    <th>Page Number</th>
+   <th>Page 1</th>
+   <tr>
+    <th>KPIs</th>
+   <th>Values</th>
+    <tr>
+    <th>Total Revenue</th>
+   <th></th>
+     <tr>
+    <th>Total Profit</th>
+   <th></th></th>
+    <tr>
+    <th>Total Cases</th>
+   <th></th>
+    <tr>
+    <th>Profit Margin(%) </th>
+   <th></th></th>
+    <tr>
+    <th>Open Cases</th>
+   <th></th>
+     <tr>
+    <th>Closed Cases</th>
+   <th></th>
+    <tr>
+    <th>Outstanding Balance</th>
+   <th> </th>   
+    <tr>
+    <th>Avg Client Satisfaction</th>
+   <th></th>
+    <tr>
+    <th>Avg Days Open</th>
+   <th></th>
+    <tr>
+    <th>Avg Lawyer UtiliZation</th>
+   <th></th>
+    <tr>
+   </tr>
+</table>
 
  
 # 📈 Key Features
