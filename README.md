@@ -120,7 +120,13 @@ Answers
 - Identifies top-performing offices and practice areas.
 - Shows the firm's current workload and overall client satisfaction.
 
+Insights Includes:
+- Revenue Trend
+- Case Status Distribution 
+- Revenue by Practice Area 
+- Office Performance by Location
 
+  
 ### Page 2 - Case Performance & Efficiency
  This page was created to evaluate how effectively legal cases are being managed throughout their lifecycle. This page analyzes case volume, status, complexity, duration, billable hours, and profitability, helping management identify operational bottlenecks, monitor case progress, and improve overall case handling efficiency.
 
