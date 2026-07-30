@@ -51,7 +51,7 @@ This project was created as part of a ZoomCharts Power BI Challenge, demonstrati
   </tr>
   <tr>
     <td>Dataset</td>
-    <td> The Spreadsheet Consists of 6 Tables which Includes Fact_Cases,Dim_Clent,Dim_Lawyer,Dim_Date,Dim_Cases,Dim_Office</td>
+    <td> The Spreadsheet Consists of 6 Tables which Includes Fact_Cases, Dim_Clent, Dim_Lawyer, Dim_Date, Dim_Cases, Dim_Office</td>
    </tr>
   <tr>
     <td>Date Range</td>
@@ -67,6 +67,7 @@ This project was created as part of a ZoomCharts Power BI Challenge, demonstrati
      <td><a href="9">View Live Dashboard</a></td>
     </tr>
 </table>
+
 ## 🎯 Business Objective
 
 The objective of this dashboard is to help decision-makers answer key business questions such as:
@@ -95,25 +96,14 @@ The dataset was modeled using a star schema in Power BI, with Fact_Cases serving
 
 # 📊 Dashboard Pages
 
-1. ## Executive Overview
+ ### Page 1 - Executive Overview
 
-Provides a high-level summary of the firm's performance through KPIs and interactive visuals.
+ This page was created to provide stakeholders with a high-level summary of the law firm's overall performance. This page highlights key business metrics such as revenue, profit, total cases, profit margin, outstanding balance, and client satisfaction, enabling executives to quickly assess the firm's health and make informed strategic decisions.
 
-Key Metrics
+### Page 2 - Case Performance & Efficiency
+ This page was created to evaluate how effectively legal cases are being managed throughout their lifecycle. This page analyzes case volume, status, complexity, duration, billable hours, and profitability, helping management identify operational bottlenecks, monitor case progress, and improve overall case handling efficiency.
 
-- Total Revenue
-- Total Profit
-- Total Cases
-- Profit Margin
-- Outstanding Balance
-- Average Client Satisfaction
-
-2. ## Case Performance & Efficiency
-
-Analyzes legal case operations and performance.
-
-Insights Include
-
+Insights Include:
 - Cases by Practice Area
 - Case Status Distribution
 - Case Complexity Analysis
@@ -121,12 +111,11 @@ Insights Include
 - Billable Hours vs Profit
 - Top 10 Revenue-Generating Cases
 
-3. ## Lawyer & Client Performance
+### Page 3 - Lawyer & Client Performance
+This Page was created to assess the performance of lawyers and understand client value across the firm. This page examines lawyer productivity, utilization, revenue contribution, client satisfaction, and client segmentation, enabling leaders to recognize top-performing lawyers, strengthen client relationships, and allocate resources more effectively.
 
-Evaluates lawyer productivity and client value.
 
-Insights Include
-
+Insights Include:
 - Revenue by Lawyer
 - Lawyer Utilization
 - Client Satisfaction
@@ -134,9 +123,9 @@ Insights Include
 - Strategic vs Non-Strategic Clients
 - Lawyer Performance Table
 
-4. ## Financial & Operational Insights
+### Page 4 - Financial & Operational Insights
 
-Focuses on financial health and operational efficiency.
+This Page was created to analyze the firm's financial health and operational effectiveness. This page focuses on profitability, internal costs, outstanding balances, workload distribution, lawyer utilization, and risk levels, helping decision-makers optimize financial performance, improve cash flow, manage operational risks, and support long-term business growth.
 
 Insights Include
 
