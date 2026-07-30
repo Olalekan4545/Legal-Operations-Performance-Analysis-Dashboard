@@ -19,6 +19,54 @@ This project was created as part of a ZoomCharts Power BI Challenge, demonstrati
       <td><a href="https://olalekan4545.github.io/Port-folio/">Portfolio</a></td>
 
 
+## Table of Contents
+- Overview
+- Business Objectives
+- Dataset Description
+- Tools used
+- Key Metrics
+- Insights & Recommendations
+- Filters
+- Measures
+- How to Use the Report
+   
+#
+
+## 📌 Project Overview
+**Legal Operations Performance Analysis-Dashboard** is an interactive 4 Pages Power BI dashboard that analyze the operational, financial, and client performance of a fictional law firm.
+
+
+<table>
+  <tr>
+    <th>Dataset Information</th>
+    <th>Value</th>
+   </tr>
+  <tr>
+    <td>Source</td>
+    <td>zoomchart Challenge Dataset</td>
+  </tr>
+  <tr>
+    <td>Tool</td>
+    <td>Microsoft Power Bi</td>
+  </tr>
+  <tr>
+    <td>Names Table</td>
+    <td> The Spreadsheet Consists of 6 Tables which Includes Fact_Cases,Dim_Clent,Dim_Lawyer,Dim_Date,Dim_Cases,Dim_Office</td>
+   </tr>
+  <tr>
+    <td>Date Range</td>
+    <td>2024 - 2026</td>
+   </tr>
+  <tr>
+    <td>Report Pages</td>
+    <td>4</td>
+      </tr>
+      </tr>
+  <tr>
+    <td>Live Report</td>
+     <td><a href="https://app.powerbi.com/view?r=eyJrIjoiZGU2NTlmN2UtMjA0MS00NWNiLWI1YTItM2ViZWRmOThkMmFiIiwidCI6ImUwYjEzY2QwLTY1MjItNDFmNS05MjFlLTg5OGRmMTBkZGIzMiJ9">View Live Dashboard</a></td>
+    </tr>
+</table>
 ## 🎯 Business Objective
 
 The objective of this dashboard is to help decision-makers answer key business questions such as:
