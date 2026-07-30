@@ -272,9 +272,8 @@ Visual Include
    <th></th>
     <tr>
    <th></th>
-    <tr>
    </tr>
-</table>
+ <table>
 
 
 <table>
@@ -296,8 +295,7 @@ Visual Include
      <tr>
     <th>Avg Meetings</th>
    <th></th>
-    <tr>
-    </tr>
+ </tr>
 </table>
 
 <table>
@@ -320,7 +318,6 @@ Visual Include
      <tr>
     <th>Avg Client Satisfaction</th>
    <th></th>
-    <tr>
     </tr>
 </table>
 
@@ -338,8 +335,7 @@ Visual Include
     <tr>
     <th>Average risk Score</th>
    <th></th>
-    <tr>
-    </tr>
+   </tr>
 </table>
 
  
