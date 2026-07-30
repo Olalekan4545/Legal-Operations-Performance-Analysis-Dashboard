@@ -23,6 +23,7 @@ This project was created as part of a ZoomCharts Power BI Challenge, demonstrati
 - Overview
 - Business Objectives
 - Dataset Description
+- Dashboard Pages
 - Tools used
 - Key Metrics
 - Insights & Recommendations
@@ -94,7 +95,7 @@ The data includes:
 The dataset was modeled using a star schema in Power BI, with Fact_Cases serving as the central fact table connected to the dimension tables through primary and foreign key relationships. This structure supports efficient reporting, interactive filtering, and detailed analysis across legal operations, financial performance, lawyer productivity, and client management.
 
 
-# 📊 Dashboard Pages
+## 📊 Dashboard Pages
 
  ### Page 1 - Executive Overview
 
