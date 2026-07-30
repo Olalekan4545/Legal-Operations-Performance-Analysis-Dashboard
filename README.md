@@ -242,7 +242,7 @@ Visual Include
 <table>
   <tr>
     <th>Page Number</th>
-   <th>Page 1</th>
+   <th>Page 1(Executive Overview)</th>
    <tr>
     <th>KPIs</th>
    <th>Values</th>
@@ -268,16 +268,78 @@ Visual Include
     <th>Outstanding Balance</th>
    <th> </th>   
     <tr>
-    <th>Avg Client Satisfaction</th>
+    <th>Avg Client Satisfaction Score</th>
    <th></th>
+    <tr>
+   <th></th>
+    <tr>
+   </tr>
+</table>
+
+
+<table>
+  <tr>
+    <th>Page Number</th>
+   <th>Page 2 (Case Performance & Efficiency) </th>
+   <tr>
+    <th>KPIs</th>
+   <th>Values</th>
     <tr>
     <th>Avg Days Open</th>
    <th></th>
     <tr>
-    <th>Avg Lawyer UtiliZation</th>
+    <th>Avg Billable Hours</th>
    <th></th>
     <tr>
-   </tr>
+    <th>Avg Court Apprearances</th>
+   <th></th>
+     <tr>
+    <th>Avg Meetings</th>
+   <th></th>
+    <tr>
+    </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Page Number</th>
+   <th>Page 3 (Lawyer & Client Performance) </th>
+   <tr>
+    <th>KPIs</th>
+   <th>Values</th>
+    <tr>
+    <tr>
+    <th>Total Lawyer</th>
+   <th></th>
+    <tr>
+    <th>Total Client</th>
+   <th></th>
+   <tr>
+    <th>Average Lawyer Utilization</th>
+   <th></th>
+     <tr>
+    <th>Avg Client Satisfaction</th>
+   <th></th>
+    <tr>
+    </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Page Number</th>
+   <th>Page 4 (Finnacial & Operational Insights) </th>
+   <tr>
+    <th>KPIs</th>
+   <th>Values</th>
+    <tr>
+    <tr>
+    <th>Total Internal Score</th>
+   <th></th>
+    <tr>
+    <th>Average risk Score</th>
+   <th></th>
+    <tr>
+    </tr>
 </table>
 
  
