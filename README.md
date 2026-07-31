@@ -407,29 +407,8 @@ The following measures power the KPI cards, charts, and calculated logic through
  </tr>
 </table>
 
-<table>
-  <tr>
-    <th>Page Number</th>
-   <th>Page 3 (Lawyer & Client Performance) </th>
-   <tr>
-    <th>KPIs</th>
-   <th>Values</th>
-    <tr>
-    <tr>
-    <th>Total Lawyer</th>
-   <th>200</th>
-    <tr>
-    <th>Total Client</th>
-   <th>800</th>
-   <tr>
-    <th>Average Lawyer Utilization</th>
-   <th>2050.1%</th>
-     <tr>
-    <th>Avg Client Satisfaction</th>
-   <th>6.6</th>
-    </tr>
- 
-# 📈 Key Features
+#
+## 📈 Key Features
 
 - Interactive drill-down analysis
 - Dynamic KPI cards
@@ -438,6 +417,8 @@ The following measures power the KPI cards, charts, and calculated logic through
 - Executive-level dashboard design
 - Cross-filtering across visuals
 - Data-driven storytelling
+
+#
 
 # 💡Key Skills Demonstrated
 
