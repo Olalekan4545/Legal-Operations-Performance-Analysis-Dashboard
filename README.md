@@ -334,10 +334,103 @@ Visual Include
    <th>€1.21bn</th>
     <tr>
     <th>Average risk Score</th>
-   <th>626k</th>
+   <th>4176%</th>
+     <tr>
+    <th>Avg Profit Margin</th>
+   <th>460.06%</th>
    </tr>
 </table>
 
+#
+
+## Dax Meaures
+The following measures power the KPI cards, charts, and calculated logic throughout the report.
+
+<table>
+  <tr>
+    <th>Measues</th>
+   <th>Formula</th>
+   <tr>
+    <th>Total Revenue</th>
+   <th>=SUM(Fact_Cases[Revenue (EUR)])</th>
+    <tr>
+    <th>Total Profit</th>
+   <th>= SUM(Fact_Cases[Profit (EUR)])</th>
+    <tr>
+    <th>Total Outstanding Balance</th>
+   <th> = SUM(Fact_Cases[Outstanding Balance (EUR)])</th>
+    <tr>
+    <th>Total Lawyer</th>
+   <th>= DISTINCTCOUNT(Dim_Lawyer[Lawyer ID])</th>
+     <tr>
+    <th>Total Internal Cost</th>
+   <th> = SUM(Fact_Cases[Internal Costs (EUR)])</th>
+   <tr>
+    <th>Total Client</th>
+   <th>= DISTINCTCOUNT(Dim_Client[Client ID])</th>
+  <tr>
+    <th>Total Cases</th>
+   <th>Total Cases = DISTINCTCOUNT(Dim_Case[Case ID])</th>
+     <tr>
+    <th>Profit Margin (%)</th>
+   <th>DIVIDE([Total Profit],[Total Reveneue],0)</th>
+     <tr>
+    <th>Open Cases</th>
+   <th>= CALCULATE([Total Cases],Dim_Case[Case Status]<> "closed")</th>
+     <tr>
+    <th>Closed Cases</th>
+   <th> = CALCULATE([Total Cases],Dim_Case[Case Status] ="Closed")</th>
+  <tr>
+ <th>Closed Cases</th>
+   <th>5.35</th>
+ <tr>
+ <th>Average Risk Score</th>
+   <th>= AVERAGE(Fact_Cases[Risk Score])</th>
+    <tr>
+ <th>Avg Profit Margin</th>
+   <th>=  AVERAGE(Fact_Cases[Profit Margin %])</th>
+     <tr>
+ <th>Avg Profit Margin</th>
+   <th>=  AVERAGE(Fact_Cases[Meetings])</th>
+    <tr>
+ <th> Lawyer Utilization % </th>
+   <th>=AVERAGE(Fact_Cases[Lawyer Utilization %])</th>
+        <tr>
+    <th>Avg Open Days</th></th>
+   <th>= AVERAGE(Fact_Cases[Days Open])</th>
+      <tr>
+    <th>Avg Court Apperance </th>
+   <th>= AVERAGE(Fact_Cases[Court Appearances])</th>
+   <tr>
+    <th> Avg Client Satisfaction</th>
+   <th> = AVERAGE(Fact_Cases[Client Satisfaction Score])</th>
+  <tr>
+    <th>Avg Billable Hours </th>
+   <th>= AVERAGE(Fact_Cases[Billable Hours])</th>
+ </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Page Number</th>
+   <th>Page 3 (Lawyer & Client Performance) </th>
+   <tr>
+    <th>KPIs</th>
+   <th>Values</th>
+    <tr>
+    <tr>
+    <th>Total Lawyer</th>
+   <th>200</th>
+    <tr>
+    <th>Total Client</th>
+   <th>800</th>
+   <tr>
+    <th>Average Lawyer Utilization</th>
+   <th>2050.1%</th>
+     <tr>
+    <th>Avg Client Satisfaction</th>
+   <th>6.6</th>
+    </tr>
  
 # 📈 Key Features
 
