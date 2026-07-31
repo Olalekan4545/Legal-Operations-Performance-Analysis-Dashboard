@@ -248,28 +248,28 @@ Visual Include
    <th>Values</th>
     <tr>
     <th>Total Revenue</th>
-   <th></th>
+   <th>€2.08bn</th>
      <tr>
     <th>Total Profit</th>
-   <th></th></th>
+   <th>€1.59bn</th>
     <tr>
     <th>Total Cases</th>
-   <th></th>
+   <th>15k</th>
     <tr>
     <th>Profit Margin(%) </th>
-   <th></th></th>
+   <th>56.81%</th>
     <tr>
     <th>Open Cases</th>
-   <th></th>
+   <th>8118</th>
      <tr>
     <th>Closed Cases</th>
-   <th></th>
+   <th>6882</th>
     <tr>
     <th>Outstanding Balance</th>
-   <th> </th>   
+   <th>€773.38M </th>   
     <tr>
     <th>Avg Client Satisfaction Score</th>
-   <th></th>
+   <th>6.6</th>
     <tr>
    <th></th>
    </tr>
@@ -285,16 +285,16 @@ Visual Include
    <th>Values</th>
     <tr>
     <th>Avg Days Open</th>
-   <th></th>
+   <th>258</th>
     <tr>
     <th>Avg Billable Hours</th>
-   <th></th>
+   <th>139.96</th>
     <tr>
     <th>Avg Court Apprearances</th>
-   <th></th>
+   <th>0.78</th>
      <tr>
     <th>Avg Meetings</th>
-   <th></th>
+   <th>5.35</th>
  </tr>
 </table>
 
@@ -308,16 +308,16 @@ Visual Include
     <tr>
     <tr>
     <th>Total Lawyer</th>
-   <th></th>
+   <th>200</th>
     <tr>
     <th>Total Client</th>
-   <th></th>
+   <th>800</th>
    <tr>
     <th>Average Lawyer Utilization</th>
-   <th></th>
+   <th>2050.1%</th>
      <tr>
     <th>Avg Client Satisfaction</th>
-   <th></th>
+   <th>6.6</th>
     </tr>
 </table>
 
@@ -330,11 +330,11 @@ Visual Include
    <th>Values</th>
     <tr>
     <tr>
-    <th>Total Internal Score</th>
-   <th></th>
+    <th>Total Internal cost</th>
+   <th>€1.21bn</th>
     <tr>
     <th>Average risk Score</th>
-   <th></th>
+   <th>626k</th>
    </tr>
 </table>
 
