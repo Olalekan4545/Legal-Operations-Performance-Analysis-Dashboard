@@ -8,7 +8,7 @@ This project was created as part of a ZoomCharts Power BI Challenge, demonstrati
 </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="">View Live Dashboard</a></td>   |      </tr>
+      <td><a href="https://app.powerbi.com/view?r=eyJrIjoiZTM2OTM1ZGMtZGNiOC00OTJiLTlmZGYtNWY0NDIzYjYwYmUzIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9">View Live Dashboard</a></td>   |      </tr>
     <tr>
       <td>📃</td>
       <td><a href="https://docs.google.com/spreadsheets/d/1XgcfQcdCkTI5AEU1u2pO4-lz6zfdRS0D/edit?usp=drive_link&ouid=104203473424749821517&rtpof=true&sd=true">Dataset</a></td> |    <tr>
@@ -65,7 +65,7 @@ This project was created as part of a ZoomCharts Power BI Challenge, demonstrati
       </tr>
   <tr>
     <td>Live Report</td>
-     <td><a href="9">View Live Dashboard</a></td>
+     <td><a href="https://app.powerbi.com/view?r=eyJrIjoiZTM2OTM1ZGMtZGNiOC00OTJiLTlmZGYtNWY0NDIzYjYwYmUzIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9">View Live Dashboard</a></td>
     </tr>
 </table>
 
