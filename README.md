@@ -380,9 +380,6 @@ The following measures power the KPI cards, charts, and calculated logic through
      <tr>
     <th>Closed Cases</th>
    <th> = CALCULATE([Total Cases],Dim_Case[Case Status] ="Closed")</th>
-  <tr>
- <th>Closed Cases</th>
-   <th>5.35</th>
  <tr>
  <th>Average Risk Score</th>
    <th>= AVERAGE(Fact_Cases[Risk Score])</th>
