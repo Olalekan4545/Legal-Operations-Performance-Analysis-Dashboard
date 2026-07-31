@@ -26,9 +26,10 @@ This project was created as part of a ZoomCharts Power BI Challenge, demonstrati
 - Dashboard Pages
 - Tools used
 - Key Metrics
-- Insights & Recommendations
-- Filters
 - Measures
+- Key Features
+- Key Skills Demostrated
+- Insights & Recommendations
 - How to Use the Report
    
 #
@@ -420,7 +421,7 @@ The following measures power the KPI cards, charts, and calculated logic through
 
 #
 
-# 💡Key Skills Demonstrated
+## 💡Key Skills Demonstrated
 
 - Data Cleaning with Power Query
 - Data Modeling
