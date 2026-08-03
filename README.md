@@ -17,6 +17,10 @@ This project was created as part of a ZoomCharts Power BI Challenge, demonstrati
     <tr>
       <td>🌐</td>
       <td><a href="https://olalekan4545.github.io/Port-folio/">Portfolio</a></td>
+        
+ ##
+
+![image](Dasboard.png)
 
 
 ## Table of Contents
@@ -99,6 +103,7 @@ The dataset was modeled using a star schema in Power BI, with Fact_Cases serving
 ## 📊 Dashboard Pages
 
  #### Page 1 - Executive Overview
+ ![image](Page_1.png)
 
  This page was created to provide stakeholders with a high-level summary of the law firm's overall performance. This page highlights key business metrics such as revenue, profit, total cases, profit margin, outstanding balance, and client satisfaction, enabling executives to quickly assess the firm's health and make informed strategic decisions.
  
@@ -130,6 +135,7 @@ Visual Includes:
 
   
 #### Page 2 - Case Performance & Efficiency
+![image](Page_2.png)
  This page was created to evaluate how effectively legal cases are being managed throughout their lifecycle. This page analyzes case volume, status, complexity, duration, billable hours, and profitability, helping management identify operational bottlenecks, monitor case progress, and improve overall case handling efficiency.
 
  ❓ Business Questions & Answered
@@ -163,6 +169,9 @@ Visual Include:
 - Top 10 Revenue-Generating Cases
 
 #### Page 3 - Lawyer & Client Performance
+
+![image](Page_3.png)
+
 This Page was created to assess the performance of lawyers and understand client value across the firm. This page examines lawyer productivity, utilization, revenue contribution, client satisfaction, and client segmentation, enabling leaders to recognize top-performing lawyers, strengthen client relationships, and allocate resources more effectively.
 
 
@@ -196,7 +205,7 @@ Visual Include:
 - Lawyer Performance Table
 
 #### Page 4 - Financial & Operational Insights
-
+![image](Page_4.png)
 This Page was created to analyze the firm's financial health and operational effectiveness. This page focuses on profitability, internal costs, outstanding balances, workload distribution, lawyer utilization, and risk levels, helping decision-makers optimize financial performance, improve cash flow, manage operational risks, and support long-term business growth.
 
 
